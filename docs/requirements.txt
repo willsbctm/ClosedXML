@@ -1,4 +1,4 @@
-breathe==4.13.0.post0
+breathe==4.14.1
 sphinx-copybutton==0.2.5
 sphinx-csharp==0.1.6
 sphinx-rtd-theme==0.4.3
